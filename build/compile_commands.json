@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\Drag.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\Drag.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/Drag.cpp",
+  "output": "CMakeFiles/Physics.dir/src/Drag.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\Force.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\Force.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/Force.cpp",
+  "output": "CMakeFiles/Physics.dir/src/Force.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\Particle.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\Particle.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/Particle.cpp",
+  "output": "CMakeFiles/Physics.dir/src/Particle.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\ProjectileMotion.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\ProjectileMotion.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/ProjectileMotion.cpp",
+  "output": "CMakeFiles/Physics.dir/src/ProjectileMotion.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\Spring.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\Spring.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/Spring.cpp",
+  "output": "CMakeFiles/Physics.dir/src/Spring.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\UniformCircularMotion.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\UniformCircularMotion.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/UniformCircularMotion.cpp",
+  "output": "CMakeFiles/Physics.dir/src/UniformCircularMotion.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\Util.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\Util.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/Util.cpp",
+  "output": "CMakeFiles/Physics.dir/src/Util.cpp.obj"
+},
+{
+  "directory": "C:/Users/makho/projects/C++/Created/Code/Physics/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Physics.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Physics.dir\\src\\main.cpp.obj -c C:\\Users\\makho\\projects\\C++\\Created\\Code\\Physics\\src\\main.cpp",
+  "file": "C:/Users/makho/projects/C++/Created/Code/Physics/src/main.cpp",
+  "output": "CMakeFiles/Physics.dir/src/main.cpp.obj"
+}
+]

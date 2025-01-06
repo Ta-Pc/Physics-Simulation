@@ -1,0 +1,3 @@
+C:/Users/makho/projects/C++/Created/Code/Physics/build/CMakeFiles/Physics.dir
+C:/Users/makho/projects/C++/Created/Code/Physics/build/CMakeFiles/edit_cache.dir
+C:/Users/makho/projects/C++/Created/Code/Physics/build/CMakeFiles/rebuild_cache.dir
