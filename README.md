@@ -4,6 +4,8 @@ It is an attempt to apply AP Physics concepts in code so as to understand them f
 
 # How to use
 ```
+git clone https://github.com/Ta-Pc/Physics-Simulation
+cd Physics-Simulation
 cd build
 cmake ..
 cmake --build .
